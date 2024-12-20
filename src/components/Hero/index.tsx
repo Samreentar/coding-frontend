@@ -13,7 +13,7 @@ const Hero = () => {
               <div className="mx-auto max-w-[800px] text-center">
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                  Your Exams
-                 Our Solution
+                 Our Smart Solution
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                 Transforming education through automated grading solutions. Experience fast, reliable, and intelligent evaluation for programming courses—built to save time and enhance accuracy.
@@ -30,7 +30,7 @@ const Hero = () => {
                     href="https://nextjstemplates.com/templates/saas-starter-startup"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
-                    🔥 Get Started
+                     Get Started
                   </Link>
                   <Link
                     href="https://github.com/NextJSTemplates/startup-nextjs"
